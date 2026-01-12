@@ -1,1 +1,1 @@
-afssdaasd sas
+add to the file ./alala.txt this content: additional contents
