@@ -1,1 +1,1 @@
-create a file ./ololo1.txt
+add to the file ./alala.txt this content: additional contents
